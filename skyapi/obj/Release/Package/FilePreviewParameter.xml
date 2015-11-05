@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Microsoft-ApiApp4aafe2cb045b495390bbc10a6e3be831" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Kumar\\Documents\\Visual\ Studio\ 2013\\Projects\\skyapi\\skyapi\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\Kumar\\Documents\\Visual\ Studio\ 2013\\Projects\\skyapi\\skyapi\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>
